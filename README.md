@@ -1,1 +1,1 @@
-# pizzademo
+# pizza ordering web app
