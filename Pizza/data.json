@@ -1,0 +1,10 @@
+{
+   "pizza":{
+        "sizes":[
+		     "Medium","Large", "Extra Large"
+		],
+		"type": ["Regular Crust","Thick Crust"],
+		"toppings":["Pepperoni","Salami","Black Olives"]        
+   }
+
+}
